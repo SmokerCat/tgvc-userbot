@@ -58,7 +58,7 @@ USERBOT_HELP = f"""{emoji.LABEL}  **Commands**:
 
 USERBOT_REPO = f"""{emoji.ROBOT} **Telegram Voice Chat UserBot**
 
-- Repository: [GitHub](https://github.com/callsmusic/tgvc-userbot)
+- Repository: [TELEGRAM](https://t.me/Aami_song_bot_chat)
 - License: AGPL-3.0-or-later"""
 
 # - Pyrogram filters
